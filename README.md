@@ -1,4 +1,2 @@
 # Arduino
-Time in delay is considered in miliseconds, 
-example, delay(2500); gives delay of 2.5s
-We are use 16MHz crystal for accurate delay.
+Used 16MHz crystal oscillator for accurate delay <br> delay is considered in miliseconds, <br>example: delay(2500); gives delay of 2.5s.
